@@ -4,7 +4,7 @@ namespace Pbo\Marketplace;
 
 use finfo;
 
-class Produk {
+trait Produk {
 
     //property
     private string $kode;
